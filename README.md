@@ -33,6 +33,6 @@
 * 고려대학교 | 영어교육 및 LB&C(언어, 뇌, 컴퓨터) 융합전공 | 2018.03 -
 
 ### More Info
-* 👤 [링크드인](www.linkedin.com/in/hy-ryan)
+* 👤 [링크드인](https://www.linkedin.com/in/hy-ryan)
 * ✍🏻 [블로그](https://devhanyoung-log.vercel.app/)
 * ✉️ 이메일: phanyoung@naver.com
