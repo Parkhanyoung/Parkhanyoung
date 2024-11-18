@@ -21,7 +21,7 @@
 * BE 5명, FE 3명으로 이루어진 팀 내에서, 개발 협업 문화를 정립하는 경험을 했습니다.
 * 단체 의사결정의 어려움을 직접 경험하며, "[Disagree and Commit](https://medium.com/@voicemod/disagree-and-commit-the-importance-of-disagreement-in-decision-making-4c654bb06a)"의 중요성을 느꼈습니다.  
 
-**[고려대학교 수강신청알리미](https://kusugang.notion.site/Univ-Cloud-705f684a589c4fbd927d5c2d102c3997) | 2021.09 - 2022.03 | BE, FE개발**
+**[고려대학교 수강신청알리미](https://ku-sugang.notion.site/9f2735e373e54e1aa5aed825405aa94b) | 2021.09 - 2022.03 | BE, FE개발**
 * 학우 10,000명 이상이 사용하는 서비스 개발에 참여하며, 처음으로 웹의 가치를 체감했습니다.
 * Django DRF를 이용하여 OAuth 인증 로직을 구현했습니다.
 
