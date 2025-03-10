@@ -4,23 +4,23 @@
 
 ## Work
 **[Finestay](https://finestays.com/)(바카티오) | 2022.05 - 2023.08 | 초기 멤버**  
-* 이터레이션/피봇 및 PMF를 찾는 의사결정을 함께했습니다.
+* 이터레이션/피봇 및 PMF를 찾는 과정을 함께했습니다.
 * 제주도에서 100일간 합숙하며, 0에서 시작해 월 거래액 3억원 및 BEP를 달성하는 과정을 함께했습니다.
 * 숙박 예약 플랫폼 및 호스트 숙박 내역 관리 시스템 개발을 전담했습니다.
 
 ## Project
 
-**[매일메일](https://www.maeil-mail.kr/) | 2024.10 - | 운영, 디자인, FE 개발**  
+**[매일메일](https://www.maeil-mail.kr/) | 2024.10 - | FE 개발, 운영, 디자인**  
 * 기술 면접 질문 구독 서비스 매일메일을 운영하는 중입니다.
 * 매우 작은 프로덕트로 린하게 시작하여 점진적 개선 중입니다.
 * 2024 2월 기준 구독자 7,000명을 유치했습니다.  
   
-**[DevelUp](https://github.com/woowacourse-teams/2024-devel-up/wiki) | 2024.07- 2024.11 | 기획, FE 개발**  
+**[DevelUp](https://github.com/woowacourse-teams/2024-devel-up/wiki) | 2024.07- 2024.11 | FE 개발, 기획**  
 * 우아한테크코스 내 프로젝트로, 개발자 상호성장 플랫폼 DevelUp을 개발했습니다.
 * BE 5명, FE 3명으로 이루어진 팀 내에서, 개발 협업 문화를 정립하는 경험을 했습니다.
 * 단체 의사결정의 어려움을 직접 경험하며, "[Disagree and Commit](https://medium.com/@voicemod/disagree-and-commit-the-importance-of-disagreement-in-decision-making-4c654bb06a)"의 중요성을 느꼈습니다.  
 
-**[고려대학교 수강신청알리미](https://ku-sugang.notion.site/9f2735e373e54e1aa5aed825405aa94b) | 2021.09 - 2022.03 | BE, FE개발**
+**[고려대학교 수강신청알리미](https://ku-sugang.notion.site/9f2735e373e54e1aa5aed825405aa94b) | 2021.09 - 2022.03 | FE개발, BE 개발**
 * 학우 10,000명 이상이 사용하는 서비스 개발에 참여하며, 처음으로 웹의 가치를 체감했습니다.
 
 ## Education
