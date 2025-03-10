@@ -24,7 +24,7 @@
 * 학우 10,000명 이상이 사용하는 서비스 개발에 참여하며, 처음으로 웹의 가치를 체감했습니다.
 
 ## Education
-* [YAPP](https://www.yapp.co.kr/) | 기업형 IT 연합 동아리 | 2024.11 - 2024.03
+* [YAPP](https://www.yapp.co.kr/) | 기업형 IT 연합 동아리 | 2024.11 - 2025.03
 * [우아한테크코스](https://www.woowacourse.io/) FE 6기 | 우아한형제들 프로그래밍 교육 기관 | 2024.02 - 2024.11
   * 🔗 [활동 세부 내용](https://github.com/Parkhanyoung/2024-woowa-course-FE)
   * 🔗 [[우아한테크 테코톡] 라이언의 린 스타트업](https://youtu.be/Flm-TqN93Ak)
