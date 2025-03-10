@@ -20,7 +20,7 @@
 * BE 5명, FE 3명으로 이루어진 팀 내에서, 개발 협업 문화를 정립하는 경험을 했습니다.
 * 단체 의사결정의 어려움을 직접 경험하며, "[Disagree and Commit](https://medium.com/@voicemod/disagree-and-commit-the-importance-of-disagreement-in-decision-making-4c654bb06a)"의 중요성을 느꼈습니다.  
 
-**[고려대학교 수강신청알리미](https://ku-sugang.notion.site/9f2735e373e54e1aa5aed825405aa94b) | 2021.09 - 2022.03 | FE개발, BE 개발**
+**[고려대학교 수강신청알리미](https://ku-sugang.notion.site/9f2735e373e54e1aa5aed825405aa94b) | 2021.09 - 2022.03 | FE 개발, BE 개발**
 * 학우 10,000명 이상이 사용하는 서비스 개발에 참여하며, 처음으로 웹의 가치를 체감했습니다.
 
 ## Education
